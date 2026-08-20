@@ -1,6 +1,5 @@
-gz-msgs13 (12.999.999-1~noble) noble; urgency=medium
+gz-msgs13 (13.0.0~pre1-1~noble) noble; urgency=medium
 
-  * Stub to be removed after first entry
+  * gz-msgs13 13.0.0~pre1-1 release
 
- -- Addisu Z. Taddese <addisu@openrobotics.org>  Sat, 03 Jan 2026 00:26:13 +0000
-
+ -- Addisu Z. Taddese <addisuzt@intrinsic.ai>  Thu, 20 Aug 2026 01:54:36 +0000
